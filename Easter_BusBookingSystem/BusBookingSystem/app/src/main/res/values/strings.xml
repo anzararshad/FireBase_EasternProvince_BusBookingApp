@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusBookingSystem</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="SearchForBuses">Search For Buses</string>
+</resources>

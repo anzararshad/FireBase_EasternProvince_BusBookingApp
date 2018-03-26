@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "946019864107",
+    "firebase_url": "https://busbookingsystem-8c3c0.firebaseio.com",
+    "project_id": "busbookingsystem-8c3c0",
+    "storage_bucket": "busbookingsystem-8c3c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946019864107:android:ac3404d9dc92811f",
+        "android_client_info": {
+          "package_name": "com.app.arsha.busbookingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946019864107-qoptfso8gebvn60c6il4ffq2hp2lm93j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.arsha.busbookingsystem",
+            "certificate_hash": "898ae2cb9c28a5998fe58ca2ce3068feb235b909"
+          }
+        },
+        {
+          "client_id": "946019864107-77o911a0l376bioe63oner325r19g438.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9N8YqjkNMWNea3W9QmxHiwlGrbag8KHo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946019864107-77o911a0l376bioe63oner325r19g438.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
